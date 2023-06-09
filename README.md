@@ -1,1 +1,4 @@
-# jpeg-idls
+# Mainnet Program IDs
+AMM: E1XRkj9fPF2NQUdoq41AHPqwMDHykYfn5PzBXAyDs7Be
+Exchange: mrkTzoWMVEBJ3AUrgd2eXNLXrnBuhhQRQyxahtaeTie
+Vault: 2qGyiNeWyZxNdkvWHc2jT5qkCnYa1j1gDLSSUmyoWMh8
